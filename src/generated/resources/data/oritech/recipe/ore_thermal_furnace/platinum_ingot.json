@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "oritech:raw_platinum"
+  },
+  "out": {
+    "count": 1,
+    "id": "oritech:platinum_ingot"
+  },
+  "seconds": 4
+}

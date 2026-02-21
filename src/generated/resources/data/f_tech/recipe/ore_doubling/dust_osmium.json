@@ -1,0 +1,12 @@
+{
+  "type": "f_tech:ore_doubling",
+  "gravel_count": 1,
+  "in": {
+    "count": 1,
+    "id": "mekanism:raw_osmium"
+  },
+  "out": {
+    "count": 2,
+    "id": "mekanism:dust_osmium"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "immersiveengineering:raw_aluminum"
+  },
+  "out": {
+    "count": 1,
+    "id": "immersiveengineering:ingot_aluminum"
+  },
+  "seconds": 4
+}

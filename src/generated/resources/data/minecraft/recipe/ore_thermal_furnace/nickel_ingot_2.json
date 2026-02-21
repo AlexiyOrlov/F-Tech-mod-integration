@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "oritech:nickel_dust"
+  },
+  "out": {
+    "count": 1,
+    "id": "oritech:nickel_ingot"
+  },
+  "seconds": 4
+}

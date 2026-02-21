@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "immersiveengineering:dust_nickel"
+  },
+  "out": {
+    "count": 1,
+    "id": "immersiveengineering:ingot_nickel"
+  },
+  "seconds": 4
+}

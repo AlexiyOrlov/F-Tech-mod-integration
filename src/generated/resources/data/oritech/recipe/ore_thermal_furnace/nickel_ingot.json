@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "oritech:raw_nickel"
+  },
+  "out": {
+    "count": 1,
+    "id": "oritech:nickel_ingot"
+  },
+  "seconds": 4
+}

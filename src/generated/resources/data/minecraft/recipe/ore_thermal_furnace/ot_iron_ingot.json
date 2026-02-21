@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "oritech:iron_dust"
+  },
+  "out": {
+    "count": 1,
+    "id": "minecraft:iron_ingot"
+  },
+  "seconds": 4
+}

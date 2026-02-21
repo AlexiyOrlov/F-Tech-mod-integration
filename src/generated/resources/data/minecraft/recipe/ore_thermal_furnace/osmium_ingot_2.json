@@ -1,0 +1,11 @@
+{
+  "type": "f_tech:ore_thermal_furnace",
+  "in": {
+    "item": "mekanism:dust_osmium"
+  },
+  "out": {
+    "count": 1,
+    "id": "mekanism:ingot_osmium"
+  },
+  "seconds": 4
+}
